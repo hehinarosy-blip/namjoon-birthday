@@ -39,7 +39,7 @@ const API_BASE =
     window.location.protocol === "http:" &&
     window.location.port === "8000"
         ? ""
-        : "http://localhost:8000";
+        : "https://namjoon-birthday-api.onrender.com";
 
 
 /* ============================================================
